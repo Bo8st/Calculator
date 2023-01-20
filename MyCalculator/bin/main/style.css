@@ -1,0 +1,21 @@
+.root {
+	-fx-background-color:#111111;
+}
+
+#txtLabel {
+	-fx-text-fill: "white";
+}
+
+.button {
+	-fx-background-color: #4d4d4d;
+	-fx-text-fill: "white";
+	-fx-font-size: 18px;
+	-fx-border-size: 4px;
+	-fx-border-style: solid;
+	-fx-border-color: "white";
+	-fx-border-radius: 2px;
+}
+
+.button:pressed {
+	-fx-text-fill: #3adce5;
+}
